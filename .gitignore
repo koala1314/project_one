@@ -27,3 +27,5 @@ hs_err_pid*
 project_one.iml
 .idea/
 src/test/
+# src/main/java/
+# src/main/resources/
